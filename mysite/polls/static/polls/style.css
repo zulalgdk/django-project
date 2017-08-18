@@ -1,0 +1,12 @@
+li a {
+    color:  #DB9B86;
+    font-size: 40pt;
+    font-family: 'Indie Flower', cursive;
+    margin-left: 100px;
+}
+body {
+    color: purple;
+    background: white url("images/back1.gif") no-repeat ;
+    font-size: 40pt;
+    font-family: 'Indie Flower', cursive;
+  }
